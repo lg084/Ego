@@ -1,0 +1,7 @@
+from,to,weight,relation
+yk,lk,2,1
+yk,lg,3,2
+yk,tg,3,2
+yk,bv,2,3
+lk,lg,2,1
+lg,tg,1,1
